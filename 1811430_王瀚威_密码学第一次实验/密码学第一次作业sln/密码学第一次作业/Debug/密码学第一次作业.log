@@ -1,0 +1,4 @@
+﻿  移位加密.cpp
+C:\Users\lenovo\source\repos\密码学第一次作业\密码学第一次作业\移位加密.cpp(6,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\密码学第一次作业\密码学第一次作业\移位加密.cpp(24,20): warning C4018: “<”: 有符号/无符号不匹配
+  密码学第一次作业.vcxproj -> C:\Users\lenovo\source\repos\密码学第一次作业\Debug\密码学第一次作业.exe
