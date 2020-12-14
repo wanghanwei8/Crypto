@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(199,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(295,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(296,42): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(296,42): warning C4309: “初始化”: 截断常量值
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(296,48): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(296,48): warning C4309: “初始化”: 截断常量值
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(325,16): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\lenovo\source\repos\DES\DES\main.cpp(360,16): warning C4018: “<=”: 有符号/无符号不匹配
+  DES.vcxproj -> C:\Users\lenovo\source\repos\DES\Debug\DES.exe
